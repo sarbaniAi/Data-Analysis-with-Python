@@ -1,0 +1,19 @@
+How Visualization helps in various stages of Machine Learning ?
+
+Data Visualization
+Libraries for visualizing data. Also see awesome-javascript.
+
+Altair - Declarative statistical visualization library for Python.
+Bokeh - Interactive Web Plotting for Python.
+bqplot - Interactive Plotting Library for the Jupyter Notebook
+Cartopy - A cartographic python library with matplotlib support
+Dash - Built on top of Flask, React and Plotly aimed at analytical web applications.
+awesome-dash
+diagrams - Diagram as Code.
+Matplotlib - A Python 2D plotting library.
+plotnine - A grammar of graphics for Python based on ggplot2.
+Pygal - A Python SVG Charts Creator.
+PyGraphviz - Python interface to Graphviz.
+PyQtGraph - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
+Seaborn - Statistical data visualization using Matplotlib.
+VisPy - High-performance scientific visualization based on OpenGL.
